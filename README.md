@@ -1,4 +1,5 @@
 # devops-aula04
-Vingadores; 
-Alvin;
-Esquilos e Toy Story;
+Vingadores;
+Alvin e os Esquilos;
+Toy Story;
+Homem Aranha.
